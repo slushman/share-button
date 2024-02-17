@@ -1,3 +1,5 @@
+import "./index.css";
+
 declare const window: Window;
 
 type Classes = {
